@@ -1,0 +1,49 @@
+.boxed{
+  border: 5px solid purple;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
+.btnn{
+  border:100px;
+  color:orange;
+  text-align:center;
+  margin:10px 5px;
+}
+body {
+  font-size: 17px;
+  background-image: url("http://www.techicy.com/wp-content/uploads/2015/01/Indian-Flag-Wallpapers-HD-Images-Free-Download-2.jpg");
+  background-attachment: scroll;
+ background-size: 100% 100%;
+}
+td{
+  font-size: 13px;
+  font-family: Franklin Gothic Heavy;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: orange
+}
+table, th, td {
+  border: 2px solid black;
+}
+
+.info{
+  color: brown;
+}
+
+h1 {
+  text-align:center;
+}
+
+a {
+  color: green;
+}
+.facts{
+  color: rgb(78,10,80);
+}
